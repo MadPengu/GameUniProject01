@@ -1,0 +1,5 @@
+1/03/2018
+
+Added some basic scripts and player controller so if someone is in need of one,
+If anyone wonders how my scripts will look at its base I will use scripts from this turtorial:
+https://www.youtube.com/watch?v=oHFOkMffPDc&list=PLX-uZVK_0K_6JEecbu3Y-nVnANJznCzix
