@@ -1,0 +1,1 @@
+Ark way with map generation and minimap added onto it. Minimap doesn't have a texture mask so looks a bit of a mess when rendered.
