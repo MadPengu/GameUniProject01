@@ -1,5 +1,8 @@
 Having a lot of issues with conflicting or buggy scripts when trying to add in scripts for the inventory system. Can implement shop system to directly place items in the player's inventory. However the conflicting scripts are making this essentially impossible, as although i've created my own versions of the inventory scripts (and so have a reasonable understanding of them), its the other scripts that are causing errors.
 
+
+Issue with UImanager not containing a reference for MyInstance
+
 In this version that was uploaded, movement/animation seems to not be working
 
 
