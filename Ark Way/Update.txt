@@ -1,15 +1,12 @@
-Having a lot of issues with conflicting or buggy scripts when trying to add in scripts for the inventory system. Can implement shop system to directly place items in the player's inventory. 
-
-(Found problem, currently fixing the conflicting issues)
+Can implement shop system to directly place items in the player's inventory, but having issues with other scripts and editor fields. 
 
 
-
-In this version that was uploaded, movement/animation seems to not be working
 
 
 Will continue to try and get the shop implemented
 
-
+Unsure how the UImanager works in terms of in editor fields and I think that its blocking any of my changes from appearing on screen. 
+Have uploaded a version which should hopefully keep all in editor fields filled
 
 
 
