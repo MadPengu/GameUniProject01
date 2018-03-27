@@ -1,2 +1,6 @@
-Ark way with map generation and minimap added onto it. Minimap doesn't have a texture mask so looks a bit of a mess when rendered.
-Shop scene has been fixed into the editor. Will work on having a transition into it and using a player inventory for the left hand shop.
+Having a lot of issues with conflicting or buggy scripts when trying to add in scripts for the inventory system. Can implement shop system to directly place items in the player's inventory. However the conflicting scripts are making this essentially impossible, as although i've created my own versions of the inventory scripts (and so have a reasonable understanding of them), its the other scripts that are causing errors.
+
+In this version that was uploaded, movement/animation seems to not be working
+
+
+Will continue to try and get the shop implemented
