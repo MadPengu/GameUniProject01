@@ -5,3 +5,7 @@ KeyBinds:
 M - Bring up Map
 K- Bring up Shop
 ESC - Close Shop
+
+
+Currently unsure how to access the player's actual health, mana and gold stat so have used place holders. 
+Shop can be exploited slightly in terms of gameplay.
