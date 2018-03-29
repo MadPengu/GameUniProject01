@@ -1,0 +1,7 @@
+Shop works when the player walks into the shop's collider. Will need to check a way of disabling after player moves from the hitbox.
+
+
+KeyBinds:
+M - Bring up Map
+K- Bring up Shop
+ESC - Close Shop
