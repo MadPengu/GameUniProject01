@@ -12,4 +12,5 @@ Shop can be exploited slightly in terms of gameplay.
 
 
 
-Forgot about bringing the inventory from the starting level to the boss level, currently working on this.
+Forgot about bringing the inventory from the starting level to the boss level, currently working on this. 
+(Fudged fix implemented as issues with transferring scenes and the previous instances of the inventory/shops being a nightmare to carry over scenes)
